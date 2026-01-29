@@ -50,4 +50,4 @@ Models are evaluated using:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Heart-Disease-Prediction.git
+   git clone https://github.com/amaan1314/Heart-Disease-Prediction.git
